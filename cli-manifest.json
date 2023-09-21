@@ -18,6 +18,25 @@
 				"en": "Introduction"
 			}
 
+		},
+		{
+			"path": {
+				"en": "https://raw.githubusercontent.com/floriandwt/inlang-marketplace-test/main/cli/first-page.md"
+			},
+			"slug": "page-1",
+			"title": {
+				"en": "Page 1"
+			}
+
+		},
+		{
+			"path": {
+				"en": "https://raw.githubusercontent.com/floriandwt/inlang-marketplace-test/main/cli/second-page.md"
+			},
+			"slug": "page-2",
+			"title": {
+				"en": "Page 2"
+			}
 		}
 	],
 	"keywords": ["cli", "commands"],
