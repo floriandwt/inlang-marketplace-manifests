@@ -8,39 +8,37 @@
 	"description": {
 		"en": "Command line interface for inlang projects. Many commands and the possibility to do automation."
 	},
-	"tableOfContents": [
-    {
-      "startpage": true,
-      "path": {
-          "en":  "https://cdn.jsdelivr.net/gh/inlang/monorepo@main/inlang/source-code/cli/README.md"
-      },
-      "slug": "",
-      "title": {
-          "en": "Introduction"
-        }
-      }
-    },
-    {
-      "path": {
-          "en":  "https://raw.githubusercontent.com/floriandwt/inlang-marketplace-test/main/cli/first-page.md"
-      },
-      "slug": "page-1",
-      "title": {
-          "en": "Page 1"
-        }
-      }
-    },
-    {
-      "path": {
-          "en":  "https://raw.githubusercontent.com/floriandwt/inlang-marketplace-test/main/cli/second-page.md"
-      },
-      "slug": "page-2",
-      "title": {
-          "en": "Page 2"
-        }
-      }
-    }
-  ]
+	"tableOfContents": [{
+			"startpage": true,
+			"path": {
+				"en": "https://cdn.jsdelivr.net/gh/inlang/monorepo@main/inlang/source-code/cli/README.md"
+			},
+			"slug": "",
+			"title": {
+				"en": "Introduction"
+			}
+
+		},
+		{
+			"path": {
+				"en": "https://raw.githubusercontent.com/floriandwt/inlang-marketplace-test/main/cli/first-page.md"
+			},
+			"slug": "page-1",
+			"title": {
+				"en": "Page 1"
+			}
+
+		},
+		{
+			"path": {
+				"en": "https://raw.githubusercontent.com/floriandwt/inlang-marketplace-test/main/cli/second-page.md"
+			},
+			"slug": "page-2",
+			"title": {
+				"en": "Page 2"
+			}
+		}
+	],
 	"keywords": ["cli", "commands"],
 	"publisherName": "inlang",
 	"publisherIcon": "https://inlang.com/favicon/safari-pinned-tab.svg",
