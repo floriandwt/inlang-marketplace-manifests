@@ -1,4 +1,4 @@
-<inlang-badge-generator></inlang-badge-generator>
+<badge-generator></badge-generator>
 
 # How to use the inlang Badge
 
