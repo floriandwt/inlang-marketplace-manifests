@@ -1,21 +1,20 @@
 {
-	"id": "app.inlang.cli",
-	"icon": "https://inlang.com/favicon/safari-pinned-tab.svg",
-	"gallery": [
-		"https://cdn.jsdelivr.net/gh/inlang/monorepo@latest/inlang/assets/marketplace/cli-marketplace-cover.jpg"
-	],
-	"displayName": {
-		"en": "CLI"
-	},
-	"description": {
-		"en": "Command line interface for inlang projects. Many commands and the possibility to do automation."
-	},
-	"readme": {
-		"en": "https://cdn.jsdelivr.net/gh/inlang/monorepo@main/inlang/source-code/cli/README.md"
-	},
-	"categories": ["app"],
-	"keywords": ["cli", "commands"],
-	"publisherName": "inlang",
-	"publisherIcon": "https://inlang.com/favicon/safari-pinned-tab.svg",
-	"license": "Apache-2.0"
+  "id": "app.inlang.cli",
+  "icon": "https://inlang.com/favicon/safari-pinned-tab.svg",
+  "gallery": [
+    "https://cdn.jsdelivr.net/gh/inlang/monorepo@latest/inlang/assets/marketplace/cli-marketplace-cover.jpg"
+  ],
+  "displayName": {
+    "en": "CLI"
+  },
+  "description": {
+    "en": "Command line interface for inlang projects. Many commands and the possibility to do automation."
+  },
+  "readme": {
+    "en": "https://cdn.jsdelivr.net/gh/inlang/monorepo@main/inlang/source-code/cli/README.md"
+  },
+  "keywords": ["app", "cli", "commands"],
+  "publisherName": "inlang",
+  "publisherIcon": "https://inlang.com/favicon/safari-pinned-tab.svg",
+  "license": "Apache-2.0"
 }
