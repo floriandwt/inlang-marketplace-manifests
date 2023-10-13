@@ -13,7 +13,7 @@
   "readme": {
     "en": "https://cdn.jsdelivr.net/gh/inlang/monorepo@main/inlang/source-code/ide-extension/MARKETPLACE.md"
   },
-  "keywords": ["app", "ide", "extension", "vscode"],
+  "keywords": ["application", "ide", "extension", "vscode"],
   "publisherName": "inlang",
   "publisherIcon": "https://inlang.com/favicon/safari-pinned-tab.svg",
   "website": "https://marketplace.visualstudio.com/items?itemName=inlang.vs-code-extension",
